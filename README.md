@@ -1,3 +1,2 @@
 # hello-world
-hello world
-try the first code and learn English
+the test created for trying the first code and learning English
